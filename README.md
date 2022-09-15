@@ -1,1 +1,4 @@
-hi starter project# git-project
+# git-project
+hi starter project
+
+Updated: By Jason Hamner
